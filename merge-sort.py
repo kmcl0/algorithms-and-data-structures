@@ -50,4 +50,4 @@ class MergeSort:
 mergesort = MergeSort()
 
 
-print(mergesort.mergeSort([1,4,6,2]))
+print(mergesort.mergeSort([4,1,6,2]))
